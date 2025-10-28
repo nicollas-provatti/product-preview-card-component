@@ -28,8 +28,8 @@ Este projeto é a minha solução para o [Desafio Product Preview Card Component
 
 ### 🔗 Links
 
-- URL da Solução: [aqui](https://github.com/nicollas-provatti/results-summary-component)
-- URL do site ativo: [aqui](https://results-summary-component-m90aqpbxs-nicollas-provattis-projects.vercel.app)
+- URL da Solução: [aqui](https://github.com/nicollas-provatti/productpreview-card-componentt)
+- URL do site ativo: [aqui](https://nicollas-provatti.github.io/productpreview-card-component/)
 
 ---
 
