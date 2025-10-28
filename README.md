@@ -29,7 +29,7 @@ Este projeto é a minha solução para o [Desafio Product Preview Card Component
 ### 🔗 Links
 
 - URL da Solução: [aqui](https://github.com/nicollas-provatti/productpreview-card-componentt)
-- URL do site ativo: [aqui](https://nicollas-provatti.github.io/productpreview-card-component/)
+- URL do site ativo: [aqui](https://nicollas-provatti.github.io/product-preview-card-component/)
 
 ---
 
